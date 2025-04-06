@@ -2,14 +2,7 @@
 
 A simple prototype macOS application that previews live video and applies image processing in real-time.
 
-## 🚀 Getting Started
-
-### Prerequisites
-- macOS 12.0+
-- Xcode 13+
-- Swift 5+
-
-### How to Run
+### 🚀 How to Run
 
 1. Clone this repository:
    git clone https://github.com/IhorLeshko/VideoPreviewMacApp.git
